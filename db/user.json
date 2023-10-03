@@ -1,0 +1,41 @@
+[
+    {
+        "username": "Sarki",
+        "password": "sarki007",
+        "role": "staff",
+        "isAdmin": true,
+        "api_key": "Sarki_sarki007"
+    },
+    {
+        "username": "Presh",
+        "password": "Presh001",
+        "role": "customer",
+        "isAdmin": false
+    },
+    {
+        "username": "Odogwu",
+        "password": "Odogwu123",
+        "role": "customer",
+        "isAdmin": false
+    },
+    {
+        "username": "Karlo",
+        "password": "Karl07",
+        "role": "staff",
+        "isAdmin": true,
+        "api_key": "Karlo_karl07"
+    },
+    {
+        "username": "Neo",
+        "password": "Neo123",
+        "role": "customer",
+        "isAdmin": false
+    },
+    {
+        "username": "Kendrick",
+        "password": "Lamar001",
+        "role": "staff",
+        "isAdmin": true,
+        "api_key": "Kendrick_lamar"
+    }
+]

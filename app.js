@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const itemRouter = require('./Items/items_router')
+const itemRouter = require('./items/items_router')
 const signUpRoute = require('./Users/user_router')
 
 const app = express();
